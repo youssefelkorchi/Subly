@@ -61,3 +61,7 @@ The main application code is located in the `src` directory.
 *   `src/index.css`: Global CSS file, likely including Tailwind directives.
 
 Configuration files like `vite.config.ts`, `tailwind.config.js`, `postcss.config.js`, and TypeScript configuration files (`tsconfig.json`, etc.) are located in the project root.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for
